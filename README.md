@@ -1,4 +1,4 @@
-# Project 3 - Instagamclone
+# Project 3 - Instargamclone
 
 Instagramclone is a photo sharing app similar to Instagram but using Parse as its backend.
 
